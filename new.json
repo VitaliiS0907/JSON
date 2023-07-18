@@ -1,0 +1,13 @@
+{
+            "person_surname": "Shevchenko",
+            "person_name": "Vitalii",
+            "person_patronymic": "Andriiovych",
+            "person_age": 26,
+            "number_of_domestic_animals": 1,
+            "desired_future_salary_USD": {
+                                                "junior": 600,
+                                                "middle": 1500,
+                                                "senior": 3000,
+              }
+
+}
