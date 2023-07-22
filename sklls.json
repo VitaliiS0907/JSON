@@ -3,11 +3,7 @@
         "Definition and understanding of what testing is": "SDLC, STLC, bug reports, documentation, types, methods, areas of testing, etc"
     },
     "Client-server_architecture": "Basic concepts and features",
-    "HTTP": {
-        "Server request methods": "",
-        "Server response codes": "",
-        "Structures of requests and responses": ""
-    },
+    "HTTP": ["Server request methods", "Server response codes", "Structures of requests and responses"],
     "JSON_XML": "structure and features",
     "API": "Postman (JS, API autotests)",
     "DevTools": "Google Chrome, FireFox",
