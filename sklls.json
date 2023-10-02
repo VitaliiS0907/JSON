@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
 	"Basic_theory": "Definition and understanding of what testing is", "SDLC", "STLC", "bug reports", "documentation", 
 			"types", "methods", "areas of testing", "etc.",
 	"Client-server_architecture": "Basic concepts and features",
@@ -9,6 +8,7 @@
 	"DevTools": "Google Chrome", "FireFox", 
 	"Mobile_Testing": "feature iOS, Android", "XCode", "Android Studio", "ADB", "Proxy and VPN",
 	"Packet_analyzer_or_Sniffer": "Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android",
+	
 	"Linux_Terminal": "pwd", "mkdir", "ls -la", "mv", "cp", "cd", "cat/>/>>", "grep/grep -r . >", "find/find . -name", "tail/tail -f", "ssh", "curl",
 	"GitHub": "git add .", "git commit", "git push", "git pull", "git branch", "git checkout", "git merge",
 	"SQL": "Create", "Delete", "Drop", "Insert Into", "Select", "From", "Where", "Join",
@@ -16,34 +16,33 @@
 	"Test_Design_Techniques": "Equivalence Classes", "Boundary Values", "Combinatorial Techniques (Pairwise, Orthogonal, Basic Choice, Every Choice)", "States and Transitions",
 	"Stress_Testing": "___",
 	"Python": "Learning the basics"
-=======
-    "Basic_theory": {
+	
+	"Basic_theory": {
         "Definition and understanding of what testing is": "SDLC, STLC, bug reports, documentation, types, methods, areas of testing, etc"
-    },
-    "Client-server_architecture": "Basic concepts and features",
-    "HTTP": ["Server request methods", "Server response codes", "Structures of requests and responses"],
-    "JSON_XML": "structure and features",
-    "API": "Postman (JS, API autotests)",
-    "DevTools": "Google Chrome, FireFox",
-    "Mobile_Testing": {
+	},
+	"Client-server_architecture": "Basic concepts and features",
+    	"HTTP": ["Server request methods", "Server response codes", "Structures of requests and responses"],
+    	"JSON_XML": "structure and features",
+    	"API": "Postman (JS, API autotests)",
+    	"DevTools": "Google Chrome, FireFox",
+    	"Mobile_Testing": {
         "feature": "iOS, Android",
         "Tools": "XCode, Android Studio, ADB, Proxy and VPN"
-    },
-    "Packet_analyzer_or_Sniffer": "Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android",
-    "Linux_Terminal": {
+    	},
+    	"Packet_analyzer_or_Sniffer": "Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android",
+    	"Linux_Terminal": {
         "Commands": "pwd, mkdir, ls -la, mv, cp, cd, cat/>/>>, grep/grep -r . >, find/find . -name, tail/tail -f, ssh, curl"
-    },
-    "GitHub": {
-        "Commands": "git add ., git commit, git push, git pull, git branch, git checkout, git merge"
-    },
-    "SQL": {
-        "Commands": "Create, Delete, Drop, Insert Into, Select, From, Where, Join"
-    },
-    "Agile_software_development": "Scrum, Kanban",
-    "Test_Design_Techniques": {
-        "Techniques": "Equivalence Classes, Boundary Values, Combinatorial Techniques (Pairwise, Orthogonal, Basic Choice, Every Choice), States and Transitions"
-    },
-    "Stress_Testing": "Jmeter",
-    "Python": "Learning the basics"
->>>>>>> 8b2be15265a00df98ed8c100a7dd0a0ef34bfe1d
+    	},
+    	"GitHub": {
+        	"Commands": "git add ., git commit, git push, git pull, git branch, git checkout, git merge"
+    	},
+    	"SQL": {
+        	"Commands": "Create, Delete, Drop, Insert Into, Select, From, Where, Join"
+    	},
+    	"Agile_software_development": "Scrum, Kanban",
+    	"Test_Design_Techniques": {
+        	"Techniques": "Equivalence Classes, Boundary Values, Combinatorial Techniques (Pairwise, Orthogonal, Basic Choice, Every Choice), States and Transitions"
+    	},
+    	"Stress_Testing": "Jmeter",
+    	"Python": "Learning the basics"
 }
