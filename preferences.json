@@ -1,8 +1,7 @@
 {
-            "favorite_movie": "Interstellar", "The Proposal", "Rocky",
+            "favorite_movie": "Interstellar, The Proposal, Rocky",
             "favorite_series": "Friends",
-            "favorite_food": "Mashed potatoes", "Salad Olivie", "Roasted Chicken",
-            "favorite_season": "Spring", "Summer",
-            "side_you_would_like_to_visit": "Czech", "Norway", "USA"
-
+            "favorite_food": "Mashed potatoes, Salad Olivie, Roasted Chicken",
+            "favorite_season": "Spring, Summer",
+            "side_you_would_like_to_visit": "Czech, Norway, USA"
 }
