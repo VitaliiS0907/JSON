@@ -3,7 +3,7 @@
   "Severity": "Major",
   "Priority": "Medium",
   "Application_version": "v3.14.3",
-  "Enviroment": "iPhone 7, iOS 15.7.6"
+  "Enviroment": "iPhone 7, iOS 15.7.5"
   "Title": {
               "The Remind about the lesson switch (24.7) does not turn on / off notifications on its own, but transfers to the settings section of the phone's OS application", 
               "Notification Remind about the lesson (24.7)"
